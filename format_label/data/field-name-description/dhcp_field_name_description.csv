@@ -1,0 +1,584 @@
+dhcp.bad_bitfield,Bogus bitfield
+dhcp.bad_length,length isn't 0
+dhcp.boot_filename_overloaded_by_dhcp,Boot file name option overloaded by DHCP
+dhcp.bootp,Frame is BOOTP
+dhcp.ccc.ietf.sec_tkt.all_pc_call_management,Invalidate All PacketCable Call Management Servers
+dhcp.ccc.ietf.sec_tkt.pc_provision_server,Invalidate PacketCable Provisioning Server
+dhcp.cl.ietf_ccc.dev_prov_unc_key_max_retries,pktcMtaDevProvUnsolicitedKeyMaxRetries
+dhcp.cl.ietf_ccc.dev_prov_unc_key_max_timeout,pktcMtaDevProvUnsolicitedKeyMaxTimeout
+dhcp.cl.ietf_ccc.dev_prov_unc_key_nom_timeout,pktcMtaDevProvUnsolicitedKeyNomTimeout
+dhcp.cl.ietf_ccc.dev_realm_unc_key_max_retries,pktcMtaDevRealmUnsolicitedKeyMaxRetries
+dhcp.cl.ietf_ccc.dev_realm_unc_key_max_timeout,pktcMtaDevRealmUnsolicitedKeyMaxTimeout
+dhcp.cl.ietf_ccc.dev_realm_unc_key_nom_timeout,pktcMtaDevRealmUnsolicitedKeyNomTimeout
+dhcp.client_address_not_given,Client address not given
+dhcp.client_hardware_address,Client hardware address
+dhcp.client_id,Identifier
+dhcp.client_id.duid_ll_hw_type,Hardware type
+dhcp.client_id.duid_llt_hw_type,Hardware type
+dhcp.client_id.duid_type,DUID Type
+dhcp.client_id.enterprise_num,Enterprise-number
+dhcp.client_id.iaid,IAID
+dhcp.client_id.link_layer_address,Link layer address
+dhcp.client_id.link_layer_address_ether,Link layer address (Ethernet)
+dhcp.client_id.time,Time
+dhcp.client_id.type,Type
+dhcp.client_id.undef,Client Identifier
+dhcp.client_id.uuid,Client Identifier (UUID)
+dhcp.client_network_id_major,Major Version
+dhcp.client_network_id_minor,Minor Version
+dhcp.cookie,Magic cookie
+dhcp.docsis_cm_cap.mpls.bda,[IEEE 802.1ad] B-DA
+dhcp.docsis_cm_cap.mpls.bdei,[IEEE 802.1ad] B-DEI
+dhcp.docsis_cm_cap.mpls.bpcp,[IEEE 802.1ad] B-PCP
+dhcp.docsis_cm_cap.mpls.bsa,[IEEE 802.1ad] B-SA
+dhcp.docsis_cm_cap.mpls.btci,[IEEE 802.1ad] B-TCI
+dhcp.docsis_cm_cap.mpls.btpid,[IEEE 802.1ad] B-TPID
+dhcp.docsis_cm_cap.mpls.bvid,[IEEE 802.1ad] B-VID
+dhcp.docsis_cm_cap.mpls.ccfi,[IEEE 802.1ad] C-CFI
+dhcp.docsis_cm_cap.mpls.cpcp,[IEEE 802.1ad] C-PCP
+dhcp.docsis_cm_cap.mpls.ctci,[IEEE 802.1ad] C-TCI
+dhcp.docsis_cm_cap.mpls.ctpid,[IEEE 802.1ad] C-TPID
+dhcp.docsis_cm_cap.mpls.cvid,[IEEE 802.1ad] C-VID
+dhcp.docsis_cm_cap.mpls.idei,[IEEE 802.1ad] I-DEI
+dhcp.docsis_cm_cap.mpls.ipcp,[IEEE 802.1ad] I-PCP
+dhcp.docsis_cm_cap.mpls.isid,[IEEE 802.1ad] I-SID
+dhcp.docsis_cm_cap.mpls.itci,[IEEE 802.1ad] I-TCI
+dhcp.docsis_cm_cap.mpls.itpid,[IEEE 802.1ad] I-TPID
+dhcp.docsis_cm_cap.mpls.iuca,[IEEE 802.1ad] I-UCA
+dhcp.docsis_cm_cap.mpls.label,MPLS Label
+dhcp.docsis_cm_cap.mpls.sdei,[IEEE 802.1ad] S-DEI
+dhcp.docsis_cm_cap.mpls.spcp,[IEEE 802.1ad] S-PCP
+dhcp.docsis_cm_cap.mpls.stci,[IEEE 802.1ad] S-TCI
+dhcp.docsis_cm_cap.mpls.stpid,[IEEE 802.1ad] S-TPID
+dhcp.docsis_cm_cap.mpls.svid,[IEEE 802.1ad] S-VID
+dhcp.docsis_cm_cap.mpls.tc,MPLS TC
+dhcp.docsis_cm_cap.ranging_hold_off.cm,CM
+dhcp.docsis_cm_cap.ranging_hold_off.dsg,DSG/eSTB
+dhcp.docsis_cm_cap.ranging_hold_off.emta,EMTA or EDVA
+dhcp.docsis_cm_cap.ranging_hold_off.eps,ePS or eRouter
+dhcp.docsis_cm_cap.ussymrate.1280,1280 ksps symbol rate
+dhcp.docsis_cm_cap.ussymrate.160,160 ksps symbol rate
+dhcp.docsis_cm_cap.ussymrate.2560,2560 ksps symbol rate
+dhcp.docsis_cm_cap.ussymrate.320,320 ksps symbol rate
+dhcp.docsis_cm_cap.ussymrate.5120,5120 ksps symbol rate
+dhcp.docsis_cm_cap.ussymrate.640,640 ksps symbol rate
+dhcp.docsis_cm_cap_type,CM DC Type
+dhcp.end_option_missing,End option missing
+dhcp.file,Boot file name
+dhcp.flags,Bootp flags
+dhcp.flags.bc,Broadcast flag
+dhcp.flags.reserved,Reserved flags
+dhcp.fqdn.e,Encoding
+dhcp.fqdn.flags,Flags
+dhcp.fqdn.mbz,Reserved flags
+dhcp.fqdn.n,Server DDNS
+dhcp.fqdn.name,Client name
+dhcp.fqdn.o,Server overrides
+dhcp.fqdn.rcode1,A-RR result
+dhcp.fqdn.rcode2,PTR-RR result
+dhcp.fqdn.s,Server
+dhcp.hops,Hops
+dhcp.hw.addr,Client hardware address
+dhcp.hw.addr_padding,Client hardware address padding
+dhcp.hw.len,Hardware address length
+dhcp.hw.mac_addr,Client MAC address
+dhcp.hw.type,Hardware type
+dhcp.id,Transaction ID
+dhcp.ip.client,Client IP address
+dhcp.ip.relay,Relay agent IP address
+dhcp.ip.server,Next server IP address
+dhcp.ip.your,Your (client) IP address
+dhcp.malformed.duid,DUID: malformed option
+dhcp.missing_subopt_length,no room left in option for suboption length
+dhcp.missing_subopt_value,no room left in option for suboption value
+dhcp.option.6RD.border_relay_ip,Border Relay IP
+dhcp.option.6RD.ipv4_mask_len,6RD IPv4 Mask Length
+dhcp.option.6RD.malformed,6RD: malformed option
+dhcp.option.6RD.prefix,6RD Prefix
+dhcp.option.6RD.prefix_len,6RD Prefix Length
+dhcp.option.agent_information_option.agent_circuit_id,Agent Circuit ID
+dhcp.option.agent_information_option.agent_remote_id,Agent Remote ID
+dhcp.option.agent_information_option.ani_ap_bssid,Access Point BSSID
+dhcp.option.agent_information_option.ani_ap_name,Access Point Name
+dhcp.option.agent_information_option.ani_att,Access Technology Type
+dhcp.option.agent_information_option.ani_att.att,Access Technology Type
+dhcp.option.agent_information_option.ani_att.res,Access Technology Type
+dhcp.option.agent_information_option.ani_network_name,Access Network Name
+dhcp.option.agent_information_option.ani_operator_id,Access Network Operator ID
+dhcp.option.agent_information_option.ani_operator_realm,Access Network Operator Realm
+dhcp.option.agent_information_option.authentication,Authentication
+dhcp.option.agent_information_option.docsis_device_class,DOCSIS Device Class
+dhcp.option.agent_information_option.flags,Flags
+dhcp.option.agent_information_option.link_selection,Link selection
+dhcp.option.agent_information_option.link_selection_cisco,Link selection (Cisco proprietary)
+dhcp.option.agent_information_option.padding,Padding
+dhcp.option.agent_information_option.radius_attributes,RADIUS Attributes
+dhcp.option.agent_information_option.relay_agent_id,Relay Agent Identifier
+dhcp.option.agent_information_option.reserved,Reserved
+dhcp.option.agent_information_option.server_id_override,Server ID Override
+dhcp.option.agent_information_option.server_id_override_cisco,Server ID Override (Cisco proprietary)
+dhcp.option.agent_information_option.source_port,Source Port
+dhcp.option.agent_information_option.suboption,Option 82 Suboption
+dhcp.option.agent_information_option.subscriber_id,Subscriber ID
+dhcp.option.agent_information_option.value,Value
+dhcp.option.agent_information_option.value.address,Value
+dhcp.option.agent_information_option.value.string,Value
+dhcp.option.agent_information_option.value.uint,Value
+dhcp.option.agent_information_option.vi,Vendor-Specific Information
+dhcp.option.agent_information_option.vi.cl.docsis_version,DOCSIS Version Number
+dhcp.option.agent_information_option.vi.cl.dpoe_system_pbb_service,DPoE System PBB Service
+dhcp.option.agent_information_option.vi.cl.dpoe_system_version,DPoE System Version Number
+dhcp.option.agent_information_option.vi.cl.length,Length
+dhcp.option.agent_information_option.vi.cl.mso_defined_text,MSO Defined Text
+dhcp.option.agent_information_option.vi.cl.option,Option
+dhcp.option.agent_information_option.vi.cl.secure_file_transfer_uri,Secure File Transfer URI
+dhcp.option.agent_information_option.vi.cl.service_class_name,Service Class Name
+dhcp.option.agent_information_option.vi.cl.tag,Tag
+dhcp.option.agent_information_option.vi.cl.tag_length,Tag Length
+dhcp.option.agent_information_option.vi.data_length,Data Length
+dhcp.option.agent_information_option.vi.enterprise,Enterprise
+dhcp.option.agent_information_option.vrf_name,VRF name
+dhcp.option.agent_information_option.vrf_name.global,"Global, default VPN"
+dhcp.option.agent_information_option.vrf_name.vpn_id,VRF name/VPN ID
+dhcp.option.agent_information_option.vrf_name.vpn_id.index,VRF name/VPN ID Index
+dhcp.option.agent_information_option.vrf_name.vpn_id.oui,VRF name/VPN ID OUI
+dhcp.option.all_subnets_are_local,All Subnets are Local
+dhcp.option.andsf_server,ANDSF Server
+dhcp.option.arp_cache_timeout,ARP Cache Timeout
+dhcp.option.associated_ip_option,Associated IP option
+dhcp.option.boot_file_size,Boot File Size
+dhcp.option.bootfile_name,Bootfile name
+dhcp.option.broadcast_address,Broadcast Address
+dhcp.option.bulk_lease.base_time,Base Time
+dhcp.option.bulk_lease.data_source,Data Source
+dhcp.option.bulk_lease.dhcp_state,Dhcp State
+dhcp.option.bulk_lease.query_end_time,Query End Time
+dhcp.option.bulk_lease.query_start_time,Query Start Time
+dhcp.option.bulk_lease.start_time_of_state,Start Time Of State
+dhcp.option.bulk_lease.status_code,Status Code
+dhcp.option.bulk_lease.status_code_message,Status Code Message
+dhcp.option.captive_portal,Captive Portal
+dhcp.option.capwap_access_controller,CAPWAP Access Controllers
+dhcp.option.civic_location.bad_cattype,Error with CAType
+dhcp.option.civic_location.ca_length,CA Length
+dhcp.option.civic_location.ca_type,CA Type
+dhcp.option.civic_location.ca_value,CA Value
+dhcp.option.civic_location.country,Country
+dhcp.option.civic_location.what,What
+dhcp.option.cl_dss_id,Country
+dhcp.option.cl_dss_id.len,DSS_ID Length
+dhcp.option.cl_dss_id.option,DSS_ID Type
+dhcp.option.classless_static.route,Mask width > 32
+dhcp.option.classless_static_route,Subnet/MaskWidth-Router
+dhcp.option.client_architecture.ambiguous,Client Architecture ID may be ambiguous
+dhcp.option.client_last_transaction_time,Client last transaction time
+dhcp.option.client_system_architecture,Client System Architecture
+dhcp.option.default_finger_server,Default Finger Server
+dhcp.option.default_ip_ttl,Default IP Time-to-Live
+dhcp.option.default_irc_server,Default IRC Server
+dhcp.option.default_www_server,Default WWW Server
+dhcp.option.dhcp,DHCP
+dhcp.option.dhcp_authentication.alg_delay,Delay Algorithm
+dhcp.option.dhcp_authentication.algorithm,Algorithm
+dhcp.option.dhcp_authentication.hmac_md5_hash,HMAC MD5 Hash
+dhcp.option.dhcp_authentication.information,Authentication Information
+dhcp.option.dhcp_authentication.protocol,Protocol
+dhcp.option.dhcp_authentication.rdm,Replay Detection Method
+dhcp.option.dhcp_authentication.rdm_rdv,Replay Detection Value
+dhcp.option.dhcp_authentication.rdm_replay_detection,RDM Replay Detection Value
+dhcp.option.dhcp_authentication.secret_id,Secret ID
+dhcp.option.dhcp_auto_configuration,DHCP Auto-Configuration
+dhcp.option.dhcp_dns_domain_search_list_fqdn,FQDN
+dhcp.option.dhcp_dns_domain_search_list_refer_last_option,"For the data, please refer to last option 119"
+dhcp.option.dhcp_dns_domain_search_list_rfc_3396_detected,Encoding Long Options detected (RFC 3396)
+dhcp.option.dhcp_max_message_size,Maximum DHCP Message Size
+dhcp.option.dhcp_name_service.invalid,Invalid Name Service
+dhcp.option.dhcp_name_service_search_option,Name Service
+dhcp.option.dhcp_server_id,DHCP Server Identifier
+dhcp.option.domain_name,Domain Name
+dhcp.option.domain_name_server,Domain Name Server
+dhcp.option.end,Option End
+dhcp.option.enterprise.malformed,no room left in option for enterprise data
+dhcp.option.ethernet_encapsulation,Ethernet Encapsulation
+dhcp.option.extension_path,Extensions Path
+dhcp.option.forcerenew_nonce.algorithm,Algorithm
+dhcp.option.hostname,Host Name
+dhcp.option.impress_server,Impress Server
+dhcp.option.interface_mtu,Interface MTU
+dhcp.option.ip_address_lease_time,IP Address Lease Time
+dhcp.option.ip_forwarding,IP Forwarding
+dhcp.option.isns.administrative_flags,Administrative Flags
+dhcp.option.isns.administrative_flags.default_discovery_domain,Default Discovery Domain
+dhcp.option.isns.administrative_flags.enabled,Administrative Flags Enabled
+dhcp.option.isns.administrative_flags.heartbeat,Heartbeat
+dhcp.option.isns.administrative_flags.management_scns,Management SCNs
+dhcp.option.isns.administrative_flags.reserved,Reserved Flags
+dhcp.option.isns.discovery_domain_access,Discovery Domain Access flags
+dhcp.option.isns.discovery_domain_access.enabled,Discovery Domain Enabled
+dhcp.option.isns.discovery_domain_access.ifcp_target_port,iFCP Target Port
+dhcp.option.isns.discovery_domain_access.initiator_target_port,iFCP Initiator Port
+dhcp.option.isns.discovery_domain_access.iscsi_initiator,iSCSI Initiator
+dhcp.option.isns.discovery_domain_access.iscsi_target,iSCSI Target
+dhcp.option.isns.discovery_domain_access.reserved,Reserved Flags
+dhcp.option.isns.discovery_domain_access_control.node,Control Node
+dhcp.option.isns.functions,iSNS Functions
+dhcp.option.isns.functions.dd_base_authorization,Discovery Domain based Authorization
+dhcp.option.isns.functions.enabled,Function Fields Enabled
+dhcp.option.isns.functions.reserved,Reserved flags
+dhcp.option.isns.functions.sec_policy_distribution,Security Policy Distribution
+dhcp.option.isns.heartbeat_originator_addr,Heartbeat Originator Address
+dhcp.option.isns.ignored_bitfield,Enabled field is not set - non-zero bitmask ignored
+dhcp.option.isns.primary_server_addr,Primary Server Address
+dhcp.option.isns.secondary_server_addr,Secondary Server Address
+dhcp.option.isns.server_security_bitmap,iSNS Server Security Bitmap
+dhcp.option.isns.server_security_bitmap.aggressive_mode,Aggressive Mode
+dhcp.option.isns.server_security_bitmap.enabled,Server Security Bitmap Enabled
+dhcp.option.isns.server_security_bitmap.ike_ipsec_enabled,IKE/IPSec
+dhcp.option.isns.server_security_bitmap.main_mode,Main Mode
+dhcp.option.isns.server_security_bitmap.pfs,PFS
+dhcp.option.isns.server_security_bitmap.reserved,Reserved Flags
+dhcp.option.isns.server_security_bitmap.transport_mode,Transport Mode
+dhcp.option.isns.server_security_bitmap.tunnel_mode,Tunnel Mode
+dhcp.option.length,Length
+dhcp.option.log_server,Log Server
+dhcp.option.lost_server_domain_name,LoST Server Domain Name
+dhcp.option.lpr_server,LPR Server
+dhcp.option.mask_supplier,Mask Supplier
+dhcp.option.max_datagram_reassembly_size,Maximum Datagram Reassembly Size
+dhcp.option.merit_dump_file,Merit Dump File
+dhcp.option.message,Message
+dhcp.option.mobile_ip_home_agent,Mobile IP Home Agent
+dhcp.option.mudurl,MUDURL
+dhcp.option.name_server,Name Server
+dhcp.option.netbios_over_tcpip_dd_name_server,NetBIOS over TCP/IP Datagram Distribution Name Server
+dhcp.option.netbios_over_tcpip_name_server,NetBIOS over TCP/IP Name Server
+dhcp.option.netbios_over_tcpip_node_type,NetBIOS over TCP/IP Node Type
+dhcp.option.netbios_over_tcpip_scope,NetBIOS over TCP/IP Scope
+dhcp.option.netinfo_parent_server_address,NetInfo Parent Server Address
+dhcp.option.netinfo_parent_server_tag,NetInfo Parent Server Tag
+dhcp.option.nis_domain,Network Information Service Domain
+dhcp.option.nis_plus_domain,Network Information Service+ Domain
+dhcp.option.nis_plus_server,Network Information Service+ Server
+dhcp.option.nis_server,Network Information Service Server
+dhcp.option.nntp_server,NNTP Server
+dhcp.option.non_local_source_routing,Non-Local Source Routing
+dhcp.option.nonstd_data,Non standard compliant option data
+dhcp.option.novell_ds_context,Novell Directory Services Context
+dhcp.option.novell_ds_tree_name,Novell Directory Services Tree Name
+dhcp.option.novell_dss.ip,IP Address
+dhcp.option.novell_dss.string,Novell Directory Services Servers String
+dhcp.option.novell_netware_ip_domain,Novell/Netware IP domain
+dhcp.option.novell_options.autoretries,Autoretries
+dhcp.option.novell_options.autoretry_delay,"Autoretry delay, sec"
+dhcp.option.novell_options.broadcast,Broadcast for nearest Netware server
+dhcp.option.novell_options.nearest_nwip_server,Nearest NWIP server
+dhcp.option.novell_options.preferred_dss_server,Preferred DSS server
+dhcp.option.novell_options.primary_dss,Primary DSS
+dhcp.option.novell_options.suboption,Option 63 Suboption
+dhcp.option.novell_options.support_netware_v1_1,Broadcast for nearest Netware server
+dhcp.option.novell_options.value,Value
+dhcp.option.novell_options.value.address,Value
+dhcp.option.novell_options.value.bool,Value
+dhcp.option.novell_options.value.uint,Value
+dhcp.option.ntp_server,Network Time Protocol Server
+dhcp.option.option.vi.cl.tag_unknown,Unknown tag
+dhcp.option.option_overload,Option Overload
+dhcp.option.option_overload.file_end_missing,file overload end option missing
+dhcp.option.option_overload.sname_end_missing,sname overload end option missing
+dhcp.option.padding,Padding
+dhcp.option.pana_agent,PAA IPv4 Address
+dhcp.option.parse_err,Parse error
+dhcp.option.path_mtu_aging_timeout,Path MTU Aging Timeout
+dhcp.option.path_mtu_plateau_table_item,Path MTU Plateau Table Item
+dhcp.option.pcp.list_length,List-Length
+dhcp.option.pcp.server,PCP Server
+dhcp.option.perform_mask_discovery,Perform Mask Discovery
+dhcp.option.perform_router_discover,Perform Router Discover
+dhcp.option.policy_filter.ip,IP Address
+dhcp.option.policy_filter.subnet_mask,Subnet Mask
+dhcp.option.pop3_server,POP3 Server
+dhcp.option.portparams.offset,Offset
+dhcp.option.portparams.psid,PSID
+dhcp.option.portparams.psid_length,PSID-Length
+dhcp.option.private_proxy_autodiscovery,Private/Proxy autodiscovery
+dhcp.option.pxe_config_file,PXELINUX configuration file
+dhcp.option.pxe_path_prefix,PXELINUX path prefix
+dhcp.option.quotes_server,Quotes Server
+dhcp.option.rdnss.domain,Domains and networks
+dhcp.option.rdnss.preference,Preference
+dhcp.option.rdnss.primary_dns,Primary DNS
+dhcp.option.rdnss.reserved,Reserved
+dhcp.option.rdnss.secondary_dns,Secondary DNS
+dhcp.option.rebinding_time_value,Rebinding Time Value
+dhcp.option.renewal_time_value,Renewal Time Value
+dhcp.option.request_list_item,Parameter Request List Item
+dhcp.option.requested_ip_address,Requested IP Address
+dhcp.option.resource_location_server,Resource Location Server
+dhcp.option.rfc3825.altitide_res,Altitude resolution
+dhcp.option.rfc3825.altitude,Altitude
+dhcp.option.rfc3825.altitude_res,Altitude resolution
+dhcp.option.rfc3825.altitude_type,Altitude type
+dhcp.option.rfc3825.error,Error
+dhcp.option.rfc3825.latitude,Latitude
+dhcp.option.rfc3825.latitude_res,Latitude resolution
+dhcp.option.rfc3825.longitude,Longitude
+dhcp.option.rfc3825.longitude_res,Longitude resolution
+dhcp.option.rfc3825.map_datum,Map Datum
+dhcp.option.root_path,Root Path
+dhcp.option.router,Router
+dhcp.option.router_solicitation_address,Router Solicitation Address
+dhcp.option.sip_server.address,SIP Server Address
+dhcp.option.sip_server.encoding,SIP Server Encoding
+dhcp.option.sip_server.name,SIP Server Name
+dhcp.option.sip_server.refer_last_option,"For the data, please refer to last option 120"
+dhcp.option.sip_server.rfc_3396_detected,Encoding Long Options detected (RFC 3396)
+dhcp.option.sip_server_address.encoding,RFC 3361 defines only 0 and 1 for Encoding byte
+dhcp.option.slp_directory_agent.slpda_address,IP Address
+dhcp.option.slp_directory_agent.value,Value
+dhcp.option.slp_service_scope.string,SLP Service Scope
+dhcp.option.slp_service_scope.value,Value
+dhcp.option.smtp_server,SMTP Server
+dhcp.option.static_route.ip,Destination IP Address
+dhcp.option.static_route.router,Destination Router
+dhcp.option.streettalk_da_server,StreetTalk Directory Assistance Server
+dhcp.option.streettalk_server,StreetTalk Server
+dhcp.option.subnet_mask,Subnet Mask
+dhcp.option.subnet_selection_option,Subnet Selection Option
+dhcp.option.suboption_length,Length
+dhcp.option.swap_server,Swap Server
+dhcp.option.tcp_default_ttl,TCP Default TTL
+dhcp.option.tcp_keepalive_garbage,TCP Keepalive Garbage
+dhcp.option.tcp_keepalive_interval,TCP Keepalive Interval
+dhcp.option.tftp_server_address,TFTP Server Address
+dhcp.option.tftp_server_name,TFTP Server Name
+dhcp.option.time_offset,Time Offset
+dhcp.option.time_server,Time Server
+dhcp.option.trailer_encapsulation,Trailer Encapsulation
+dhcp.option.type,Option
+dhcp.option.tz_pcode,TZ PCode
+dhcp.option.tz_tcode,TZ TCode
+dhcp.option.user_class,Instance of User Class
+dhcp.option.user_class.data,User Class Data
+dhcp.option.user_class.length,User Class Length
+dhcp.option.user_class.text,User Class Data (Text)
+dhcp.option.user_class_binary_data,User Class Binary Data
+dhcp.option.user_class_binary_data_length,User Class Binary Data Length
+dhcp.option.user_class_description,User Class Description
+dhcp.option.user_class_description_length,User Class Description Length
+dhcp.option.user_class_name,User Class Name
+dhcp.option.user_class_name_length,User Class Name Length
+dhcp.option.user_class_padding,User Class padding
+dhcp.option.value,Value
+dhcp.option.value.address,Value
+dhcp.option.value.bool,Value
+dhcp.option.value.int,Value
+dhcp.option.value.secs,Value
+dhcp.option.value.string,Value
+dhcp.option.value.uint,Value
+dhcp.option.value.usecs,Value
+dhcp.option.vendor.aerohive.unknown,Unknown
+dhcp.option.vendor.aerohive.xiqhostname,HM FQDN
+dhcp.option.vendor.aerohive.xiqipaddress,HM IP
+dhcp.option.vendor.alu.app_type,Application Type
+dhcp.option.vendor.alu.end,Alcatel End
+dhcp.option.vendor.alu.padding,Padding
+dhcp.option.vendor.alu.sip_url,SIP URL
+dhcp.option.vendor.alu.suboption,Option 43 Suboption
+dhcp.option.vendor.alu.tftp1,Spatial Redundancy TFTP1
+dhcp.option.vendor.alu.tftp2,Spatial Redundancy TFTP2
+dhcp.option.vendor.alu.vid,Voice VLAN ID
+dhcp.option.vendor.arubaap.controllerip,Aruba Controller IP
+dhcp.option.vendor.arubaiap,Aruba Instant AP
+dhcp.option.vendor.arubaiap.amp_ip,AMP IP Address
+dhcp.option.vendor.arubaiap.name_org,Name Organisation
+dhcp.option.vendor.arubaiap.password,Password
+dhcp.option.vendor.avaya,Private/Avaya IP Telephone
+dhcp.option.vendor.avaya.dot1x,DOT1X
+dhcp.option.vendor.avaya.httpdir,HTTPDIR
+dhcp.option.vendor.avaya.httpsrvr,HTTPSRVR
+dhcp.option.vendor.avaya.icmpdu,ICMPDU
+dhcp.option.vendor.avaya.icmpred,ICMPRED
+dhcp.option.vendor.avaya.l2q,L2Q
+dhcp.option.vendor.avaya.l2qvlan,L2QVLAN
+dhcp.option.vendor.avaya.l2qvlan.invalid,Option 242 (L2QVLAN) invalid
+dhcp.option.vendor.avaya.loglocal,LOGLOCAL
+dhcp.option.vendor.avaya.mcipadd,MCIPADD
+dhcp.option.vendor.avaya.phy1stat,PHY1STAT
+dhcp.option.vendor.avaya.phy2stat,PHY2STAT
+dhcp.option.vendor.avaya.procpswd,PROCPSWD
+dhcp.option.vendor.avaya.procstat,PROCSTAT
+dhcp.option.vendor.avaya.snmpadd,SNMPADD
+dhcp.option.vendor.avaya.snmpstring,SNMPSTRING
+dhcp.option.vendor.avaya.static,STATIC
+dhcp.option.vendor.avaya.tlssrvr,TLSSRVR
+dhcp.option.vendor.avaya.vlantest,VLANTEST
+dhcp.option.vendor.avaya.vlantest.invalid,Option 242 (avaya vlantest) invalid
+dhcp.option.vendor.bsdp.attributes_filter_list,Boot Image Attributes Filter List
+dhcp.option.vendor.bsdp.boot_image.attribute,Boot Image Attribute
+dhcp.option.vendor.bsdp.boot_image.attribute.install,Install
+dhcp.option.vendor.bsdp.boot_image.attribute.kind,Kind
+dhcp.option.vendor.bsdp.boot_image.attribute.reserved,Reserved
+dhcp.option.vendor.bsdp.boot_image.desc,Boot Image Description
+dhcp.option.vendor.bsdp.boot_image.index,Boot Image Index
+dhcp.option.vendor.bsdp.boot_image.name,Boot Image Name
+dhcp.option.vendor.bsdp.boot_image.name_len,Boot Image Name Length
+dhcp.option.vendor.bsdp.boot_image_list,Boot Image List
+dhcp.option.vendor.bsdp.boot_image_list_path,Boot Image List Path
+dhcp.option.vendor.bsdp.default_boot_image_id,Default Boot Image ID
+dhcp.option.vendor.bsdp.message_size,Message Size
+dhcp.option.vendor.bsdp.message_type,Message Type
+dhcp.option.vendor.bsdp.netboot_firmware,NetBoot 1.0 Firmware
+dhcp.option.vendor.bsdp.reply_port,Reply Port
+dhcp.option.vendor.bsdp.selected_boot_image_id,Selected Boot Image ID
+dhcp.option.vendor.bsdp.server_identifier,Server Identifier
+dhcp.option.vendor.bsdp.server_priority,Server Priority
+dhcp.option.vendor.bsdp.suboption,Option 43 Suboption
+dhcp.option.vendor.bsdp.version,Version
+dhcp.option.vendor.cisco.apicuuid,APIC UUID
+dhcp.option.vendor.cisco.clientint,Client Int
+dhcp.option.vendor.cisco.fabricname,Fabricname
+dhcp.option.vendor.cisco.model,Model
+dhcp.option.vendor.cisco.nodeid,Node ID
+dhcp.option.vendor.cisco.serialno,SerialNo
+dhcp.option.vendor.cisco.suboption,Option 43 Suboption
+dhcp.option.vendor.cisco.unknown,Unknown
+dhcp.option.vendor.cisco.unknown1,Unknown1
+dhcp.option.vendor.cisco.unknown10,Unknown10
+dhcp.option.vendor.cisco.unknown2,Unknown2
+dhcp.option.vendor.cisco.unknown3,Unknown3
+dhcp.option.vendor.cisco.unknown5,Unknown5
+dhcp.option.vendor.cisco.unknown6,Unknown6
+dhcp.option.vendor.cl.address_realm,Address Realm
+dhcp.option.vendor.cl.boot_rom_version,Boot ROM version
+dhcp.option.vendor.cl.cablecard_capability,CableCARD Capability
+dhcp.option.vendor.cl.cm_ps_firmware_revision,CM/PS Firmware Revision
+dhcp.option.vendor.cl.cm_ps_system_desc,CM/PS System Description
+dhcp.option.vendor.cl.correlation_ID,Correlation ID
+dhcp.option.vendor.cl.device_id_ca,Device Identification (CA)
+dhcp.option.vendor.cl.device_id_x509,Device Identification (X.509)
+dhcp.option.vendor.cl.device_type,Device Type
+dhcp.option.vendor.cl.end,CL End
+dhcp.option.vendor.cl.esafe_config_file_devices,eSafe Config File Devices
+dhcp.option.vendor.cl.esafe_type,eSAFE Types
+dhcp.option.vendor.cl.firewall_policy_file_version,Firewall Policy File Version
+dhcp.option.vendor.cl.hardware_version,Hardware Version
+dhcp.option.vendor.cl.model_number,Model Number
+dhcp.option.vendor.cl.mta_mac_address,MTA MAC Address
+dhcp.option.vendor.cl.oui_bytes,Organizationally Unique Identifier
+dhcp.option.vendor.cl.oui_string,Organizationally Unique Identifier
+dhcp.option.vendor.cl.padding,Padding
+dhcp.option.vendor.cl.serial_number,Serial Number
+dhcp.option.vendor.cl.software_version,Software Version
+dhcp.option.vendor.cl.suboption,Option 43 Suboption
+dhcp.option.vendor.cl.suboption_request_list,Suboption Request List
+dhcp.option.vendor.cl.vendor_name10,Vendor Name
+dhcp.option.vendor.cl.vendor_name51,Vendor Name
+dhcp.option.vendor.cl.video_security_tape,Video Security Type
+dhcp.option.vendor.pxeclient.boot_item,boot item
+dhcp.option.vendor.pxeclient.boot_item.layer,Layer
+dhcp.option.vendor.pxeclient.boot_item.type,Type
+dhcp.option.vendor.pxeclient.boot_menu,boot menu
+dhcp.option.vendor.pxeclient.boot_menu.desc,Description
+dhcp.option.vendor.pxeclient.boot_menu.length,Length
+dhcp.option.vendor.pxeclient.boot_menu.type,Type
+dhcp.option.vendor.pxeclient.boot_servers,boot servers
+dhcp.option.vendor.pxeclient.boot_servers.count,IP count
+dhcp.option.vendor.pxeclient.boot_servers.ip,IP
+dhcp.option.vendor.pxeclient.boot_servers.type,Type
+dhcp.option.vendor.pxeclient.configured,Configured
+dhcp.option.vendor.pxeclient.credential_types,credential types
+dhcp.option.vendor.pxeclient.discovery,Discovery
+dhcp.option.vendor.pxeclient.discovery_control,discovery control
+dhcp.option.vendor.pxeclient.discovery_control.broadcast,Disable Broadcast
+dhcp.option.vendor.pxeclient.discovery_control.bstrap,Bootstrap override
+dhcp.option.vendor.pxeclient.discovery_control.multicast,Disable Multicast
+dhcp.option.vendor.pxeclient.discovery_control.serverlist,Serverlist only
+dhcp.option.vendor.pxeclient.end,PXE Client End
+dhcp.option.vendor.pxeclient.lcm_domain,LCM Domain
+dhcp.option.vendor.pxeclient.lcm_nic_option,LCM NIC option
+dhcp.option.vendor.pxeclient.lcm_serial,LCM Serial Number
+dhcp.option.vendor.pxeclient.lcm_server,LCM Server Name
+dhcp.option.vendor.pxeclient.lcm_version,LCM Version
+dhcp.option.vendor.pxeclient.lcm_workgroup,LCM Workgroup
+dhcp.option.vendor.pxeclient.menu_prompt,menu prompt
+dhcp.option.vendor.pxeclient.menu_prompt.prompt,Prompt
+dhcp.option.vendor.pxeclient.menu_prompt.timeout,Timeout
+dhcp.option.vendor.pxeclient.mtftp_client_port,mtftp client port
+dhcp.option.vendor.pxeclient.mtftp_delay,mtftp delay
+dhcp.option.vendor.pxeclient.mtftp_ip,mtftp IP
+dhcp.option.vendor.pxeclient.mtftp_server_port,mtftp server port
+dhcp.option.vendor.pxeclient.mtftp_timeout,mtftp timeout
+dhcp.option.vendor.pxeclient.multicast_address,multicast address
+dhcp.option.vendor.pxeclient.multicast_address_alloc,multicast address alloc
+dhcp.option.vendor.pxeclient.padding,Padding
+dhcp.option.vendor.pxeclient.suboption,Option 43 Suboption
+dhcp.option.vendor.value,Value
+dhcp.option.vendor.value.address,Value
+dhcp.option.vendor.value.string,Value
+dhcp.option.vendor.value.uint,Value
+dhcp.option.vendor_class_data,vendor-class-data
+dhcp.option.vendor_class_id,Vendor class identifier
+dhcp.option.vi.cl.erouter_container_option,eRouter Container Option
+dhcp.option.vi.cl.modem_capabilities,Modem Capabilities
+dhcp.option.vi.cl.option_request,Option Request
+dhcp.option.vi.cl.suboption,Option 125 Suboption
+dhcp.option.vi.cl.tftp_server_addresses,TFTP Server Addresses
+dhcp.option.vi.enterprise,Enterprise
+dhcp.option.vi.length,Length
+dhcp.option.vi.tr111.device_manufacturer_oui,DeviceManufacturerOUI
+dhcp.option.vi.tr111.device_product_class,DeviceProductClass
+dhcp.option.vi.tr111.device_serial_number,DeviceSerialNumber
+dhcp.option.vi.tr111.gateway_manufacturer_oui,GatewayManufacturerOUI
+dhcp.option.vi.tr111.gateway_product_class,GatewayProductClass
+dhcp.option.vi.tr111.gateway_serial_number,GatewaySerialNumber
+dhcp.option.vi.tr111.suboption,Option 125 Suboption
+dhcp.option.vi.value,Value
+dhcp.option.vi.value.address,Value
+dhcp.option.vi.value.string,Value
+dhcp.option.vi.value.uint,Value
+dhcp.option.vi_class.cl_address_mode,CableLab Address Mode
+dhcp.option.vi_class.data,NetInfo Parent Server Tag
+dhcp.option.vi_class.enterprise,Enterprise
+dhcp.option.vi_class.length,Length
+dhcp.option.vi_class.vendor_class_data.item.data,Data
+dhcp.option.vi_class.vendor_class_data.item.length,Length
+dhcp.option.xwindows_system_display_manager,X Window System Display Manager
+dhcp.option.xwindows_system_font_server,X Window System Font Server
+dhcp.secs,Seconds elapsed
+dhcp.secs_le,Seconds elapsed appears to be encoded as little-endian
+dhcp.server,Server host name
+dhcp.server_name_overloaded_by_dhcp,Server name option overloaded by DHCP
+dhcp.subopt.unknown_type,"ERROR, please report: Unknown subopt type handler"
+dhcp.suboption_invalid,Invalid suboption
+dhcp.type,Message type
+dhcp.vendor.data,Data
+dhcp.vendor.docsis.cm_cap_len,CM DC Length
+dhcp.vendor.pc.i05_ccc.suboption,Suboption
+dhcp.vendor.pc.ietf_ccc.suboption,Suboption
+dhcp.vendor.pktc.mdc.supp_flow.basic,Basic Flow
+dhcp.vendor.pktc.mdc.supp_flow.hybrid,Hybrid Flow
+dhcp.vendor.pktc.mdc.supp_flow.secure,Secure Flow (Full Secure Provisioning Flow)
+dhcp.vendor.pktc.mdc_cl.mib.management_event,PacketCable 1.5 Management Event MIB
+dhcp.vendor.pktc.mdc_cl.mib.mem_extension,PacketCable 1.5 MEM Extension MIB
+dhcp.vendor.pktc.mdc_cl.mib.mem_extention,PacketCable 1.5 MEM Extension MIB
+dhcp.vendor.pktc.mdc_cl.mib.mta,PacketCable 1.5 MTA MIB
+dhcp.vendor.pktc.mdc_cl.mib.mta_extension,PacketCable 1.5 MTA Extension MIB
+dhcp.vendor.pktc.mdc_cl.mib.reserved,Reserved
+dhcp.vendor.pktc.mdc_cl.mib.signaling,PacketCable 1.5 Signaling MIB
+dhcp.vendor.pktc.mdc_cl.mib.signaling_extension,PacketCable 1.5 Signaling Extension MIB
+dhcp.vendor.pktc.mdc_euro.mib.management_event,PacketCable 1.5 Management Event MIB
+dhcp.vendor.pktc.mdc_euro.mib.mem_extension,PacketCable 1.5 MEM Extension MIB
+dhcp.vendor.pktc.mdc_euro.mib.mem_extention,PacketCable 1.5 MEM Extension MIB
+dhcp.vendor.pktc.mdc_euro.mib.mta,PacketCable 1.5 MTA MIB
+dhcp.vendor.pktc.mdc_euro.mib.mta_extension,PacketCable 1.5 MTA Extension MIB
+dhcp.vendor.pktc.mdc_euro.mib.reserved,Reserved
+dhcp.vendor.pktc.mdc_euro.mib.signaling,PacketCable 1.5 Signaling MIB
+dhcp.vendor.pktc.mdc_euro.mib.signaling_extension,PacketCable 1.5 Signaling Extension MIB
+dhcp.vendor.pktc.mdc_ietf.mib.management_event,IETF Management Event MIB
+dhcp.vendor.pktc.mdc_ietf.mib.mta,IETF MTA MIB
+dhcp.vendor.pktc.mdc_ietf.mib.reserved,Reserved
+dhcp.vendor.pktc.mdc_ietf.mib.signaling,IETF Signaling MIB
+dhcp.vendor.pktc.mta_cap_len,MTA DC Length
+dhcp.vendor.pktc.mta_cap_type,Type
+dhcp.vendor.suboption,Option 125 Suboption
+dhcp.vendor_specific_options,Bootp vendor specific options

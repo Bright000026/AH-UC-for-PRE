@@ -1,0 +1,65 @@
+mbtcp.cannot_classify,Cannot classify packet type. Try setting Modbus/TCP Port preference to this destination or source port
+mbtcp.len,Length
+mbtcp.modbus.and_mask,AND mask
+mbtcp.modbus.bit_cnt,bit count
+mbtcp.modbus.byte_cnt,byte count
+mbtcp.modbus.byte_cnt_16,byte count (16-bit)
+mbtcp.modbus.conformity_level,Conformity Level
+mbtcp.modbus.data,Data
+mbtcp.modbus.diagnostic_code,diagnostic code
+mbtcp.modbus.ev_count,event count
+mbtcp.modbus.ev_msg_count,message count
+mbtcp.modbus.ev_recv_broadcast,Broadcast Received
+mbtcp.modbus.ev_recv_char_over,Character Overrun
+mbtcp.modbus.ev_recv_comm_err,Communication Error
+mbtcp.modbus.ev_recv_lo_mode,Currently in Listen Only Mode
+mbtcp.modbus.ev_send_lo_mode,Currently in Listen Only Mode
+mbtcp.modbus.ev_send_read_ex,Read Exception Sent
+mbtcp.modbus.ev_send_slave_abort_ex,Slave Abort Exception Sent
+mbtcp.modbus.ev_send_slave_busy_ex,Slave Busy Exception Sent
+mbtcp.modbus.ev_send_slave_nak_ex,Slave Program NAK Exception Sent
+mbtcp.modbus.ev_send_write_timeout,Write Timeout Error Occurred
+mbtcp.modbus.ev_status,status
+mbtcp.modbus.exception_code,exception code
+mbtcp.modbus.func_code,function code
+mbtcp.modbus.mei,MEI type
+mbtcp.modbus.more_follows,More Follows
+mbtcp.modbus.next_object_id,Next Object ID
+mbtcp.modbus.num_objects,Number of Objects
+mbtcp.modbus.object_id,Object ID
+mbtcp.modbus.object_str_value,Object String Value
+mbtcp.modbus.objects_len,Object length
+mbtcp.modbus.or_mask,OR mask
+mbtcp.modbus.read_device_id,Read Device ID
+mbtcp.modbus.read_reference_num,read reference number
+mbtcp.modbus.read_word_cnt,read word count
+mbtcp.modbus.reference_num,reference number
+mbtcp.modbus.reference_num_32,reference number (32 bit)
+mbtcp.modbus.reference_type,reference type
+mbtcp.modbus.unit_id,unit identifier
+mbtcp.modbus.word_cnt,word count
+mbtcp.modbus.write_reference_num,write reference number
+mbtcp.modbus.write_word_cnt,write word count
+mbtcp.prot_id,Protocol Identifier
+mbtcp.trans_id,Transaction Identifier
+mbtcp.unit_id,Unit Identifier
+modbus_tcp.and_mask,AND mask
+modbus_tcp.bit_cnt,bit count
+modbus_tcp.byte_cnt,byte count
+modbus_tcp.byte_cnt_16,byte count (16-bit)
+modbus_tcp.data,Data
+modbus_tcp.exception_code,exception code
+modbus_tcp.func_code,function code
+modbus_tcp.len,length
+modbus_tcp.or_mask,OR mask
+modbus_tcp.prot_id,protocol identifier
+modbus_tcp.read_reference_num,read reference number
+modbus_tcp.read_word_cnt,read word count
+modbus_tcp.reference_num,reference number
+modbus_tcp.reference_num_32,reference number (32 bit)
+modbus_tcp.reference_type,reference type
+modbus_tcp.trans_id,transaction identifier
+modbus_tcp.unit_id,unit identifier
+modbus_tcp.word_cnt,word count
+modbus_tcp.write_reference_num,write reference number
+modbus_tcp.write_word_cnt,write word count

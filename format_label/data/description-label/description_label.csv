@@ -1,0 +1,27 @@
+Address,1
+Application Layer Function Code,3
+Function Code,3
+Control,2
+Protocol Identifier,1
+Start Bytes,0
+Unit Identifier,1
+Object,1
+Transaction Identifier,1
+Data Link Header checksum,1
+Byte Count,0
+Register Number,1
+Transport Control,2
+Application Control,2
+Length,0
+Length,0
+ROSCTR,2
+Item count,0
+Data length,0
+Item,1
+Function,3
+Parameter length,0
+Redundancy Identification (Reserved),1
+Error class,3
+Error code,3
+Protocol Id,1
+Protocol Data Unit Reference,1

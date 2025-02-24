@@ -1,0 +1,74 @@
+modbus.and_mask,AND mask
+modbus.bit_cnt,Bit Count
+modbus.bitnum,Bit Number
+modbus.bitval,Bit Value
+modbus.byte_cnt,Byte Count
+modbus.byte_cnt_16,Byte Count (16-bit)
+modbus.conformity_level,Conformity Level
+modbus.data,Data
+modbus.data.decode,"Invalid decoding options, register data not a multiple of 4!"
+modbus.diagnostic.ascii_input_delimiter,CHAR
+modbus.diagnostic.bus_char_overrun_count,Slave Character Overrun Count
+modbus.diagnostic.bus_comm_error_count,CRC Error Count
+modbus.diagnostic.bus_exception_error_count,Exception Error Count
+modbus.diagnostic.bus_message_count,Total Message Count
+modbus.diagnostic.clear_ctr_diag_reg,Clear Counters & Diag Register Echo
+modbus.diagnostic.no_slave_response_count,Slave No Response Count
+modbus.diagnostic.restart_communication_option,Restart Communication Option
+modbus.diagnostic.return_diag_register,Diagnostic Register Contents
+modbus.diagnostic.return_query_data.echo,Echo Data
+modbus.diagnostic.return_query_data.request,Request Data
+modbus.diagnostic.slave_busy_count,Slave Device Busy Count
+modbus.diagnostic.slave_message_count,Slave Message Count
+modbus.diagnostic.slave_nak_count,Slave NAK Count
+modbus.diagnostic_code,Diagnostic Code
+modbus.ev_count,Event Count
+modbus.ev_msg_count,Message Count
+modbus.ev_recv_broadcast,Broadcast Received
+modbus.ev_recv_char_over,Character Overrun
+modbus.ev_recv_comm_err,Communication Error
+modbus.ev_recv_lo_mode,Currently in Listen Only Mode
+modbus.ev_send_lo_mode,Currently in Listen Only Mode
+modbus.ev_send_read_ex,Read Exception Sent
+modbus.ev_send_slave_abort_ex,Slave Abort Exception Sent
+modbus.ev_send_slave_busy_ex,Slave Busy Exception Sent
+modbus.ev_send_slave_nak_ex,Slave Program NAK Exception Sent
+modbus.ev_send_write_timeout,Write Timeout Error Occurred
+modbus.ev_status,Status
+modbus.event,Event
+modbus.exception_code,Exception Code
+modbus.func_code,Function Code
+modbus.mei,MEI type
+modbus.more_follows,More Follows
+modbus.next_object_id,Next Object ID
+modbus.num_objects,Number of Objects
+modbus.object_id,Object ID
+modbus.object_str_value,Object String Value
+modbus.object_value,Object Value
+modbus.objects_len,Object length
+modbus.or_mask,OR mask
+modbus.padding,Padding
+modbus.read_device_id,Read Device ID
+modbus.read_reference_num,Read Reference Number
+modbus.read_word_cnt,Read Word Count
+modbus.reference_num,Reference Number
+modbus.reference_num_32,Reference Number (32 bit)
+modbus.reference_type,Reference Type
+modbus.reg16,Register Value (16-bit)
+modbus.reg32,Register Value (32-bit)
+modbus.register.ieee_float,Register (IEEE Float)
+modbus.register.modicon_float,Register (Modicon Float)
+modbus.register.uint16,Register (UINT16)
+modbus.register.uint32,Register (UINT32)
+modbus.regnum16,Register Number
+modbus.regnum32,Register Number
+modbus.regval_float,Register Value (IEEE Float)
+modbus.regval_int16,Register Value (INT16)
+modbus.regval_int32,Register Value (INT32)
+modbus.regval_uint16,Register Value (UINT16)
+modbus.regval_uint32,Register Value (UINT32)
+modbus.request_frame,Request Frame
+modbus.response_time,Time from request
+modbus.word_cnt,Word Count
+modbus.write_reference_num,Write Reference Number
+modbus.write_word_cnt,Write Word Count
