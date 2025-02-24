@@ -1,0 +1,47 @@
+Authors
+-------
+ 
+  * Georges Bossert
+  * Frédéric Guihéry
+
+Contributors
+------------
+
+  * Olivier Tétard
+  * Goulven Guiheux
+  * Maxime Olivier
+  * Alexandre Pigné
+  * Franck Roland
+  * Fabien André
+  * Quentin Heyler
+  * Benjamin Dufour
+  * Giuseppe Massaro
+  * Timo Juhani
+  * "winnie"
+  * Remy Delion
+  * Bertus Kruger
+  * Eric asselin
+  * Tammo Krueger
+
+Sponsors
+--------
+
+  * AMOSSYS: http://www.amossys.fr
+  * Supélec: http://www.rennes.supelec.fr/ren/rd/cidre/
+  * ANSSI:   https://www.ssi.gouv.fr
+
+Copyrights
+----------
+
+Netzob is licensed under the terms of the GNU GPL either version 3 of
+the License, or (at your option) any later version. Most of the code
+is copyrighted by Georges Bossert and Frédéric Guihéry (please refer
+to the file headers).
+
+List of external libraries or icons that are embedded in Netzob's
+source code:
+
+  * resources/sdist/babel_extract.py:
+     - Copyright: 2006 Ufsoft.org - Pedro Algarvio <ufs@ufsoft.org>
+     - License: BSD-3-clause
+     
